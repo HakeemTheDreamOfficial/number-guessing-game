@@ -14,9 +14,12 @@ This is my first project so that's why a lot of the code can be made to be much 
 Run:
 
 ```bash
-python number_guessing_game.py
+python number_guessing_game_v2.py
 ```
-
+##v2 patches
+-Patched a bug where there were only 9 guesses available in hard level
+-Patched a bug that would give misleading hints in hard mode
+-Fixed a few misleading comments
 
 ##Future Improvements Inshaallah
 -Add a GUI
