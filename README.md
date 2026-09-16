@@ -1,4 +1,4 @@
-#Fun, Beginner, Number guessing game project
+# Fun, Beginner, Number guessing game project
 
 This is my first project so that's why a lot of the code can be made to be much shorter and more efficient.
 
