@@ -21,11 +21,11 @@ python number_guessing_game_v2.py
 -Patched a bug that would give misleading hints in hard mode
 -Fixed a few misleading comments
 
-##Future Improvements Inshaallah
+##Potential Future Improvements
 -Add a GUI
 -Save High Scores
 -Shorten code into functions
 
 
 ##Screenshot
--"number_guessing_game_screenshot.png" outlines how the game goes
+-"number_guessing_game_screenshot_v2.png" outlines how the game goes
